@@ -4,19 +4,13 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/chatbot-websockets.git
+   git clone https://github.com/AlejoGuerra94/chat-bot.git
    cd chatbot-websockets
    ```
 
 2. Instalar dependencias:
    ```bash
    npm install
-   ```
-
-3. Configurar variables de entorno:
-   ```bash
-   cp .env.example .env
-   # Editar .env con tus credenciales
    ```
 
 4. Iniciar servidor:
